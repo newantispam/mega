@@ -251,28 +251,27 @@ function create_config( )
     "sh",
     "serverinfo"
     },
-    sudo_users = {80182995},--Sudo users
+    sudo_users = {166111645},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[MeGa shield v2.9
+    about_text = [[@savior_team v2.9
 An advanced administration bot based on TG-CLI written in Lua
 
 Github:
 https://github.com/hafez16/mega-shield
 
 Admins:
-@hafez1116hafez [Developer]
-@amirho3ien911 [Developer]
-@Eblis_alone [Manager]
-@Mmd_hei [sponsor]
-
-Special thanks to
-SEEDTEAM
-Hextor team
-Magic team
-Avira team
-
+کانال تیم: @savior_team
+مدیریت اصلی: @TheKing_eme
+ مدیریت اصلی دوم: @TheKing_1995
+قدرت برگرفته از:
+ #saviorTG
+کانال تیم: @savior_team
+مدیریت اصلی: @TheKing_eme
+ مدیریت اصلی دوم: @TheKing_1995
+قدرت برگرفته از:
+ #saviorTG
 Our channels
-@shieldTM [persian]
+@savior_team [persian]
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -645,7 +644,7 @@ Returns Server info and about Smart
 (use invite link to invite)
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 *Only owner can use res, setowner, promote, demote, and log commands
-*Mega Smart V1.7
+*@savior_team
 ]],
   }
   serialize_to_file(config, './data/config.lua')
