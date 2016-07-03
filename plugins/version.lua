@@ -9,18 +9,17 @@ Cores:3 Core
 Ram:4 Gig
 HDD:60 Gig SSD
 Location Server:Hetzner Germany
-Team Channel: @SmartTG_CH
-Configure: @XzX_ERPO_XzX
-Manager: @XeX_ERPO_XeX
-Admin: @Us_Mm
-Powerd by:
- #SmartTG
+کانال تیم: @savior_team
+مدیریت اصلی: @TheKing_eme
+ مدیریت اصلی دوم: @TheKing_1995
+قدرت برگرفته از:
+ #saviorTG
  
-Special Thanks:
-@theking_1995
-Morteza No PV(Mega Sheild)
-Hafez(Mega Shild)
- and other people...]]
+کانال تیم: @savior_team
+مدیریت اصلی: @TheKing_eme
+ مدیریت اصلی دوم: @TheKing_1995
+قدرت برگرفته از:
+ #saviorTG
 end
 
 return {
